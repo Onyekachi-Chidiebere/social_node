@@ -1,0 +1,40 @@
+Arguments: 
+  /Users/loner/.nvm/versions/node/v20.10.0/bin/node /usr/local/bin/yarn add mongoose dotenv express body-parser
+
+PATH: 
+  /Users/loner/.nvm/versions/node/v20.10.0/bin:/Users/loner/Documents/applications/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  AggregateError
+      at internalConnectMultiple (node:net:1114:18)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+      at internalConnectMultiple (node:net:1177:5)
+
+npm manifest: 
+  {
+    "name": "social_node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
